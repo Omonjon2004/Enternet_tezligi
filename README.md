@@ -1,1 +1,1 @@
-# Enternet_tezligi
+# Enternet_tezligi  bilish uchun pythonda kod yozdim
